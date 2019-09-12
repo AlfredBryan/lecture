@@ -1,0 +1,12 @@
+.main_header a {
+    text-decoration: none;
+    color: black;
+}
+
+.main_header a:hover {
+    text-decoration: none;
+    color: black;
+}
+.navbar-main {
+    background-color: brown;
+}
